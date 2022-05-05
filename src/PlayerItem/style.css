@@ -1,0 +1,26 @@
+.item-container {
+  display: flex;
+  cursor: pointer;
+  padding: 10px;
+  margin: 10px 20px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: solid 1px #ffffff;
+}
+
+.item-container.hover {
+  border: solid 1px #99a7ed;
+}
+
+.item-name {
+  width: 100%;
+  justify-self: center;
+}
+
+.player-name {
+	padding-right: 10px;
+}
+
+.item-icon {
+	justify-self: end;
+}

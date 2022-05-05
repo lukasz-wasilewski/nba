@@ -1,0 +1,19 @@
+.clear-search {
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.search-input {
+  width: 100%;
+}
+
+.search-container {
+  margin: 30px 20px;
+  position: relative;
+}
+
+.players-container {
+	width: 100%;
+}
